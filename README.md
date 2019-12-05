@@ -2,6 +2,9 @@
 
 [Tutorial link](https://reactjs.org/tutorial/tutorial.html)
 
+![alt text](/result.png)
+
+
 Usage:
 
 `yarn`
@@ -12,5 +15,6 @@ Or :
 `npm install`
 
 `npm start`
+
 
 ---
